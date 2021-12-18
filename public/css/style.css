@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+    background-color: #f9f9f9;
+    font-family:'Open Sans',sans-serif;
+    line-height:normal;
+    font-size: 16px;
+    color: #444;
+    padding:0;
+    margin:0;
+}
+
+.post-body h2 {
+    color: #e25633;
+    text-align: center;
+}
+
+.post-body {
+    max-width: 680px;
+    margin: 20px auto;
+    border: 10px solid #f0f0f0;
+    padding: 15px 20px;
+    background-color: #fff;
+    color: #444;
+}
+
+.post-body img {
+    max-width: 100%;
+    height: auto;
+}
+
+.post-body iframe, iframe {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+p.vidv {
+    text-align: center;
+}
+
+p.texty {
+    font-weight: bold;
+    font-size: 18px;
+    color: crimson;
+    text-align: center;
+    margin: 10px auto;
+}
+
+#flippy{text-align:center;margin:auto;display:inline}#flippy button{background:#fff;background-image:linear-gradient(to right,#34ea78 0%,#2da7e3 51%,#34ea78 100%);background-size:200% auto;color:#fff;display:block;width:100%;padding:15px;font-weight:700;font-size:14px;text-align:center;text-transform:uppercase;letter-spacing:0.5px;margin:10px auto;border-radius:3px;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1);transition:all .3s}#flippy button:hover,#flippy button:focus{background-position: right center;outline:none;opacity:1;color:#fff}#flippanel{display:none;padding:10px 0;text-align:left;background:#fff;margin:10px 0 0 0}#flippanel img{background:#f5f5f5;margin:10px auto}
+#flippy1{text-align:center;margin:auto;display:inline}#flippy1 button{background:#fff;background-image:linear-gradient(to right,#34ea78 0%,#2da7e3 51%,#34ea78 100%);background-size:200% auto;color:#fff;display:block;width:100%;padding:15px;font-weight:700;font-size:14px;text-align:center;text-transform:uppercase;letter-spacing:0.5px;margin:10px auto;border-radius:3px;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1);transition:all .3s}#flippy1 button:hover,#flippy1 button:focus{background-position: right center;outline:none;opacity:1;color:#fff}#flippanel1{display:none;padding:10px 0;text-align:left;background:#fff;margin:10px 0 0 0}#flippanel1 img{background:#f5f5f5;margin:10px auto}
